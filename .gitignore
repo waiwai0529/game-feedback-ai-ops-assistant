@@ -1,0 +1,10 @@
+.env
+.env.*
+.venv/
+__pycache__/
+*.pyc
+.artifact_work/
+data/
+runs/
+*.inspect.ndjson
+*.zip
