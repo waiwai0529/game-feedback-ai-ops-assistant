@@ -1,0 +1,16 @@
+{
+  "mode": "api",
+  "total": 500,
+  "analyzed": 500,
+  "errors": 0,
+  "pending": 0,
+  "negative": 230,
+  "negative_rate": 0.46,
+  "coverage": 1.0,
+  "needs_review": 205,
+  "usage": {
+    "prompt_tokens": 922513,
+    "completion_tokens": 42787,
+    "total_tokens": 965300
+  }
+}

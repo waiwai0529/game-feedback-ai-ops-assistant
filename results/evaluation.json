@@ -1,0 +1,10 @@
+{
+  "labeled": 50,
+  "predicted": 50,
+  "failed_or_pending": 0,
+  "coverage": 1.0,
+  "category_accuracy": 0.74,
+  "sentiment_accuracy": 0.9,
+  "end_to_end_category_success": 0.74,
+  "missing_ids": []
+}
